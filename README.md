@@ -5,25 +5,25 @@ Io sono Pietro, sono un Front End Developer Junior appasionato da sempre dell'in
 <br/>
 <br/> 
 🌱 Su cosa sono focalizzato attualmente? 
->>>
+<br/> 
 Beh sullo sviluppo web di singol page application ho cominciato con angular 13
->>>
+<br/>
 come primo framework e mi voglio dedicare in un primo momento a consolidare le mie competenze!!!
 <br/> 
 <br/> 
 🔭 Guardando al futuro i miei prossimi obbiettivi??
->>>
+<br/> 
 Approfondire l'argomento react provarlo giocarci un po è capire se mi piace,
->>>
+<br/> 
 dopodiche buttarmi a capofitto e capire cosa c'è sotto il cofano di react
->>>
+<br/> 
 visto che e sulla bocca di tutti assieme ad Angular (Che devo dire gran framework per quelche conosco ).
->>>
+<br/> 
 E perchè no tempo permettendo fra lavoro studio e progetti ci potrei infilare dentro anche un po di tailwind 🤣
 <br/> 
 <br/> 
 🥅 Il mio goal del 2022 ???
->>>
+<br/> 
 Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia passione un mestiere!!!
 <br/>
 <br/> 
