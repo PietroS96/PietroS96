@@ -1,12 +1,12 @@
 Salve 👋
-
+>>>
 Io sono Pietro, sono un Front End Developer Junior appasionato
 da sempre dell'informatica, finalmente dopo anni in cui fra
 lavoro e tanto altro si studiava un po di tutto ma senza poter
 svicerare bene le cose , ho deciso di credere in Develhope 
 mi sono buttato e posso affermare di aver acquisito 
 una forte base che continuero a curare ed accrescere.
-
+>>>
 📫 How to reach me:
 <br/> 
 <br/> 
