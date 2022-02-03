@@ -1,19 +1,37 @@
 Salve 👋
 >>>
 Io sono Pietro, sono un Front End Developer Junior appasionato
+>>>
 da sempre dell'informatica, finalmente dopo anni in cui fra
+>>>
 lavoro e tanto altro si studiava un po di tutto ma senza poter
+>>>
 svicerare bene le cose , ho deciso di credere in Develhope 
+>>>
 mi sono buttato e posso affermare di aver acquisito 
+>>>
 una forte base che continuero a curare ed accrescere.
 >>>
-📫 How to reach me:
+🌱 Su cosa sono focalizzato attualmente? Beh sullo sviluppo web di singol page application
+ho cominciato con angular 13 come primo framework e mi voglio dedicare in un primo momento
+a consolidare le mie competenze!!!
 <br/> 
+🔭 Guardando al futuro i miei prossimi obbiettivi??
+>>>
+Approfondire l'argomento react provarlo giocarci un po è capire se mi piace,
+>>>
+dopodiche buttarmi a capofitto e capire cosa c'è sotto il cofano di react
+>>>
+visto che e sulla bocca di tutti assieme ad Angular (Che devo dire gran framework per quel poo)
+>>>
+
+📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn
+<br/>
 <br/> 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pietro-scaduto-470b9221b/)
 <br/> 
 <br/> 
-Linguaggi e Tool:
+Linguaggi Framework e Tools:
 <br/> 
 <br/> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
