@@ -15,9 +15,16 @@ Approfondire l'argomento react provarlo giocarci un po è capire se mi piace,
 >>>
 dopodiche buttarmi a capofitto e capire cosa c'è sotto il cofano di react
 >>>
-visto che e sulla bocca di tutti assieme ad Angular (Che devo dire gran framework per quel poo)
+visto che e sulla bocca di tutti assieme ad Angular (Che devo dire gran framework per quelche conosco ).
 >>>
-
+E perchè no tempo permettendo fra lavoro studio e progetti ci potrei infilare dentro anche un po di tailwind 🤣
+<br/> 
+<br/> 
+🥅 Il mio goal del 2022 ???
+>>>
+Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia passione un mestiere!!!
+<br/>
+<br/> 
 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn
 <br/>
 <br/> 
