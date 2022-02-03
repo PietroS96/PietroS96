@@ -31,14 +31,13 @@ Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia pa
 <br/>
 <br/>
 
-[img align="left" alt="PietroS96" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pietro-scaduto-470b9221b/)
+[<img align="left" alt="PietroS96" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pietro-scaduto-470b9221b/)
 
 <br/> 
 <br/> 
 
 Linguaggi Framework e Tools:
 
-<br/> 
 <br/> 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
