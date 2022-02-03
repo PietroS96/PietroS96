@@ -2,27 +2,29 @@ Salve 👋
 >>>
 Io sono Pietro, sono un Front End Developer Junior appasionato da sempre dell'informatica, finalmente dopo anni in cui fra lavoro e tanto altro si studiava un po di tutto ma   senza poter svicerare bene le cose , ho deciso di credere in Develhope mi sono buttato e posso affermare di aver acquisito una forte base che continuero a curare ed accrescere.
 >>>
+<br/>
 <br/> 
-
-🌱 Su cosa sono focalizzato attualmente? Beh sullo sviluppo web di singol page application
-    ho cominciato con angular 13 come primo framework e mi voglio dedicare in un primo momento
-    a consolidare le mie competenze!!!
+🌱 Su cosa sono focalizzato attualmente? 
+>>>
+Beh sullo sviluppo web di singol page application ho cominciato con angular 13
+>>>
+come primo framework e mi voglio dedicare in un primo momento a consolidare le mie competenze!!!
 <br/> 
 <br/> 
 🔭 Guardando al futuro i miei prossimi obbiettivi??
 >>>
-    Approfondire l'argomento react provarlo giocarci un po è capire se mi piace,
+Approfondire l'argomento react provarlo giocarci un po è capire se mi piace,
 >>>
-    dopodiche buttarmi a capofitto e capire cosa c'è sotto il cofano di react
+dopodiche buttarmi a capofitto e capire cosa c'è sotto il cofano di react
 >>>
-    visto che e sulla bocca di tutti assieme ad Angular (Che devo dire gran framework per quelche conosco ).
+visto che e sulla bocca di tutti assieme ad Angular (Che devo dire gran framework per quelche conosco ).
 >>>
-    E perchè no tempo permettendo fra lavoro studio e progetti ci potrei infilare dentro anche un po di tailwind 🤣
+E perchè no tempo permettendo fra lavoro studio e progetti ci potrei infilare dentro anche un po di tailwind 🤣
 <br/> 
 <br/> 
 🥅 Il mio goal del 2022 ???
 >>>
-     Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia passione un mestiere!!!
+Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia passione un mestiere!!!
 <br/>
 <br/> 
 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn
