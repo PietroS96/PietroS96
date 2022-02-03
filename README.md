@@ -3,10 +3,11 @@ Io sono Pietro, sono un Front End Developer Junior appasionato da sempre dell'in
 si studiava un po di tutto ma senza poter svicerare bene le cose , ho deciso di credere in Develhope mi sono buttato e posso affermare di aver
 acquisito una forte base che continuero a curare ed accrescere 
 
-- 📫 How to reach me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+📫 How to reach me: [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <br/> 
+<br/> 
+ 
 
 Linguaggi e Tool:
 
