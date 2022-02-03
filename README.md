@@ -30,10 +30,14 @@ Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia pa
 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn
 <br/>
 <br/>
-<img align="left" alt="PietroS96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />![](LinkedIn)
+
+[img align="left" alt="PietroS96" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]LinkedIn)
+
 <br/> 
 <br/> 
+
 Linguaggi Framework e Tools:
+
 <br/> 
 <br/> 
 
@@ -52,4 +56,4 @@ Linguaggi Framework e Tools:
 
 
 
-[linkedin]: https://www.linkedin.com/in/pietro-scaduto-470b9221b/
+https://www.linkedin.com/in/pietro-scaduto-470b9221b/
