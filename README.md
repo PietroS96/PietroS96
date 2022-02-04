@@ -1,19 +1,19 @@
 Salve 👋
 >>>
-Io sono Pietro, sono un Front End Developer Junior appasionato da sempre dell'informatica, finalmente dopo anni in cui fra lavoro e tanto altro si studiava un po di tutto ma   senza poter svicerare bene le cose , ho deciso di credere in Develhope mi sono buttato e posso affermare di aver acquisito una forte base che continuero a curare ed accrescere.
+Io sono Pietro, sono un Front End Developer Junior appassionato da sempre dell'informatica, finalmente dopo anni in cui fra lavoro e tanto altro si studiava un po di tutto ma   senza poter svicerare bene le cose , ho deciso di credere in Develhope mi sono buttato e posso affermare di aver acquisito una forte base che continuero a curare ed accrescere.
 >>>
 <br/>
 <br/> 
 🌱 Su cosa sono focalizzato attualmente? 
 <br/> 
-Beh sullo sviluppo web di singol page application ho cominciato con angular 13
+Beh sullo sviluppo web di single page application ho cominciato con angular 13
 <br/>
 come primo framework e mi voglio dedicare in un primo momento a consolidare le mie competenze!!!
 <br/> 
 <br/> 
 🔭 Guardando al futuro i miei prossimi obbiettivi??
 <br/> 
-Approfondire l'argomento react provarlo giocarci un po è capire se mi piace,
+Approfondire l'argomento React provarlo, giocarci un po è capire se mi piace,
 <br/> 
 dopodiche buttarmi a capofitto e capire cosa c'è sotto il cofano di react
 <br/> 
