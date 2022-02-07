@@ -32,7 +32,7 @@ Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia pa
 <br/>
 
 [<img align="left" alt="PietroS96" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pietro-scaduto-470b9221b/)
-⚡<a href="https://www.linkedin.com/in/pietro-scaduto-470b9221b/" style="text-decoration=none" style="color=green">Pietro Scaduto<a/>⚡
+<a href="https://www.linkedin.com/in/pietro-scaduto-470b9221b/" style="text-decoration=none">⚡Pietro Scaduto⚡<a/>
 
 <br/> 
 <br/> 
