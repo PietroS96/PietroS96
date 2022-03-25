@@ -24,7 +24,7 @@ E perchè no tempo permettendo fra lavoro studio e progetti ci potrei infilare d
 <br/> 
 🥅 Il mio goal del 2022 ???
 <br/> 
-Inserirmi in un azienda in cui poter crescere e cominciare a creare della mia passione un mestiere!!!
+Approfondire Javascript e Angular e tempo permettendo vorrei studiare Gsap!!!
 <br/>
 <br/> 
 📫 Vuoi saperne di più su di me?? Vieni a trovarmi su LinkedIn
